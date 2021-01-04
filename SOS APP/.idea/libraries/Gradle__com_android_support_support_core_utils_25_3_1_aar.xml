@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-core-utils:25.3.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06d3dadd42cafe92351e89c290b57106/support-core-utils-25.3.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/29ef7566e903c2dc07b42b923757bfcd/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06d3dadd42cafe92351e89c290b57106/support-core-utils-25.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b699c19b8002d51fd37cb59c5edce9a0/support-core-utils-25.3.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06d3dadd42cafe92351e89c290b57106/support-core-utils-25.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06d3dadd42cafe92351e89c290b57106/support-core-utils-25.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-utils/25.3.1/5ba0a59688a5aa4bc69388dd823b8e20c7f25b01/support-core-utils-25.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

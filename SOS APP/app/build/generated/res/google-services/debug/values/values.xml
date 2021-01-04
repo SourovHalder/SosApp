@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">630917307630-ampfvj3be3ee6vrtnr5pv5hfl7qnqf5b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">630917307630</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdXjUB16FrHetPXuOObQ-cCvAFJ6DKXOs</string>
+    <string name="google_app_id" translatable="false">1:630917307630:android:b859094c9e8bf013</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdXjUB16FrHetPXuOObQ-cCvAFJ6DKXOs</string>
+    <string name="project_id" translatable="false">sosapp-efa3a</string>
+</resources>

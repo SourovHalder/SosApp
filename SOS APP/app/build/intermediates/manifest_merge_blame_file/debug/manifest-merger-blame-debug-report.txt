@@ -1,0 +1,261 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.sstto.sos"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:4:5-78
+11-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:6:5-78
+13-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.CALL_PHONE" />
+14-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:7:5-68
+14-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:7:22-66
+15    <uses-permission android:name="android.permission.SEND_SMS" />
+15-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:8:5-66
+15-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.BLUETOOTH" />
+16-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:9:5-67
+16-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:9:22-65
+17    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+17-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:10:5-73
+17-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:10:22-71
+18
+19    <meta-data
+19-->[com.android.support:appcompat-v7:25.3.1] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b774e5cd9e56da11e305248c3114d246\appcompat-v7-25.3.1\AndroidManifest.xml:25:5-27:34
+20        android:name="android.support.VERSION"
+20-->[com.android.support:appcompat-v7:25.3.1] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b774e5cd9e56da11e305248c3114d246\appcompat-v7-25.3.1\AndroidManifest.xml:26:9-47
+21        android:value="25.3.1" />
+21-->[com.android.support:appcompat-v7:25.3.1] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b774e5cd9e56da11e305248c3114d246\appcompat-v7-25.3.1\AndroidManifest.xml:27:9-31
+22
+23    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+23-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:22:5-67
+23-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:22:22-65
+24    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+24-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:23:5-81
+24-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:23:22-79
+25
+26    <permission
+26-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:25:5-109
+27        android:name="com.example.sstto.sos.permission.C2D_MESSAGE"
+27-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:25:17-71
+28        android:protectionLevel="signature" />
+28-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:25:72-107
+29
+30    <uses-permission android:name="com.example.sstto.sos.permission.C2D_MESSAGE" />
+30-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:27:5-78
+30-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:27:22-76
+31
+32    <application
+32-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:11:5-41:19
+33        android:allowBackup="true"
+33-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:12:9-35
+34        android:debuggable="true"
+35        android:icon="@drawable/icon"
+35-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:13:9-38
+36        android:label="@string/app_name"
+36-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:14:9-41
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:15:9-54
+38        android:supportsRtl="true"
+38-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:16:9-35
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:17:9-40
+41        <activity
+41-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:19:9-27:20
+42            android:name="com.example.sstto.sos.SplashScreen"
+42-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:19:19-47
+43            android:label="@string/app_name"
+43-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:21:13-45
+44            android:theme="@style/Theme.Transparent" >
+44-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:20:13-53
+45            <intent-filter>
+45-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:22:13-26:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:23:17-69
+46-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:23:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:25:17-76
+48-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:25:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity android:name="com.example.sstto.sos.LoginActivity" >
+51-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:30:9-35:20
+51-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:30:19-48
+52            <intent-filter>
+52-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:31:13-34:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:23:17-69
+53-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:23:25-66
+54
+55                <category android:name="android.intent.category.DEFAULT" />
+55-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:33:17-76
+55-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:33:27-73
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:36:9-38:20
+59            android:name="com.example.sstto.sos.MainActivity"
+59-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:36:19-47
+60            android:configChanges="orientation|keyboardHidden|screenSize"
+60-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:37:13-74
+61            android:label="@string/app_name" >
+61-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:36:48-80
+62        </activity>
+63
+64        <receiver android:name="com.example.sstto.sos.SmsSentReceiver" />
+64-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:39:9-51
+64-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:39:19-49
+65        <receiver android:name="com.example.sstto.sos.SmsDeliveredReceiver" />
+65-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:40:9-56
+65-->C:\Users\Sourov\android project\SOS-master\app\src\main\AndroidManifest.xml:40:19-54
+66
+67        <activity
+67-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:20:9-189
+68            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+68-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:20:19-68
+69            android:excludeFromRecents="true"
+69-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:20:129-162
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:20:163-187
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:20:69-128
+72        <!--
+73Service handling Google Sign-In user revocation. For apps that do not integrate with
+74            Google Sign-In, this service will never be started.
+75        -->
+76        <service
+76-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:24:9-184
+77            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+77-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:24:18-63
+78            android:exported="true"
+78-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:24:64-87
+79            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+79-->[com.google.android.gms:play-services-auth:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\c51f54f6945d98627a420fcbb8f8a004\play-services-auth-11.6.0\AndroidManifest.xml:24:88-182
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\d2b0c72665e124aa089bb5e67a38d0ec\play-services-base-11.6.0\AndroidManifest.xml:19:9-172
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\d2b0c72665e124aa089bb5e67a38d0ec\play-services-base-11.6.0\AndroidManifest.xml:19:19-85
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\d2b0c72665e124aa089bb5e67a38d0ec\play-services-base-11.6.0\AndroidManifest.xml:19:146-170
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\d2b0c72665e124aa089bb5e67a38d0ec\play-services-base-11.6.0\AndroidManifest.xml:19:86-145
+85
+86        <receiver
+86-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:25:7-26:18
+87            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+87-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:25:17-89
+88            android:enabled="true"
+88-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:25:90-112
+89            android:exported="false" >
+89-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:25:113-137
+90        </receiver>
+91        <receiver
+91-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:27:7-31:18
+92            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+92-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:27:17-104
+93            android:enabled="true"
+93-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:27:162-184
+94            android:exported="true"
+94-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:27:185-208
+95            android:permission="android.permission.INSTALL_PACKAGES" >
+95-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:27:105-161
+96            <intent-filter>
+96-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:28:11-30:27
+97                <action android:name="com.android.vending.INSTALL_REFERRER" />
+97-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:29:15-76
+97-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:29:23-74
+98            </intent-filter>
+99        </receiver>
+100
+101        <service
+101-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:32:7-137
+102            android:name="com.google.android.gms.measurement.AppMeasurementService"
+102-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:32:16-87
+103            android:enabled="true"
+103-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:32:88-110
+104            android:exported="false" />
+104-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:32:111-135
+105        <service
+105-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:33:7-197
+106            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+106-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:33:16-90
+107            android:enabled="true"
+107-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:33:148-170
+108            android:exported="false"
+108-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:33:171-195
+109            android:permission="android.permission.BIND_JOB_SERVICE" />
+109-->[com.google.firebase:firebase-analytics:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\cbab8eee643b2b7b400c727900f308be\firebase-analytics-11.6.0\AndroidManifest.xml:33:91-147
+110
+111        <receiver
+111-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:31:9-36:20
+112            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+112-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:31:19-84
+113            android:exported="true"
+113-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:31:85-108
+114            android:permission="com.google.android.c2dm.permission.SEND" >
+114-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:31:109-169
+115            <intent-filter>
+115-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:32:13-35:29
+116                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+116-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:33:17-80
+116-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:33:25-78
+117
+118                <category android:name="com.example.sstto.sos" />
+118-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:34:17-60
+118-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:34:27-58
+119            </intent-filter>
+120        </receiver>
+121        <!--
+122 FirebaseInstanceIdService performs security checks at runtime,
+123             no need for explicit permissions despite exported="true"
+124        -->
+125        <service
+125-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:40:9-44:19
+126            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+126-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:40:18-82
+127            android:exported="true" >
+127-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:40:83-106
+128            <intent-filter android:priority="-500" >
+128-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:41:13-43:29
+128-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:41:28-51
+129                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+129-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:42:17-79
+129-->[com.google.firebase:firebase-iid:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\2423d05664c10fb752f3b608fd172ba5\firebase-iid-11.6.0\AndroidManifest.xml:42:25-77
+130            </intent-filter>
+131        </service>
+132
+133        <provider
+133-->[com.google.firebase:firebase-common:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\329a78c45444a8639d017c1ca63cb717\firebase-common-11.6.0\AndroidManifest.xml:6:9-194
+134            android:name="com.google.firebase.provider.FirebaseInitProvider"
+134-->[com.google.firebase:firebase-common:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\329a78c45444a8639d017c1ca63cb717\firebase-common-11.6.0\AndroidManifest.xml:6:79-143
+135            android:authorities="com.example.sstto.sos.firebaseinitprovider"
+135-->[com.google.firebase:firebase-common:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\329a78c45444a8639d017c1ca63cb717\firebase-common-11.6.0\AndroidManifest.xml:6:19-78
+136            android:exported="false"
+136-->[com.google.firebase:firebase-common:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\329a78c45444a8639d017c1ca63cb717\firebase-common-11.6.0\AndroidManifest.xml:6:144-168
+137            android:initOrder="100" />
+137-->[com.google.firebase:firebase-common:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\329a78c45444a8639d017c1ca63cb717\firebase-common-11.6.0\AndroidManifest.xml:6:169-192
+138
+139        <meta-data
+139-->[com.google.android.gms:play-services-basement:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b7e0491b8b389a420347f391d411f556\play-services-basement-11.6.0\AndroidManifest.xml:20:9-121
+140            android:name="com.google.android.gms.version"
+140-->[com.google.android.gms:play-services-basement:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b7e0491b8b389a420347f391d411f556\play-services-basement-11.6.0\AndroidManifest.xml:20:20-65
+141            android:value="@integer/google_play_services_version" />
+141-->[com.google.android.gms:play-services-basement:11.6.0] C:\Users\Sourov\.gradle\caches\transforms-2\files-2.1\b7e0491b8b389a420347f391d411f556\play-services-basement-11.6.0\AndroidManifest.xml:20:66-119
+142    </application>
+143
+144</manifest>
