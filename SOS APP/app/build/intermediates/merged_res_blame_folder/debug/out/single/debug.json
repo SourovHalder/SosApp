@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cyclone.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\cyclone.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_safety.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\safety.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_setting_popup.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\layout\\setting_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fire.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\fire.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_earthquake.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\earthquake.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gear.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\gear.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blizzard.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\blizzard.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.mp3.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\raw\\beep.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_appinfo_popup.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\layout\\appinfo_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_error.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\drawable\\error.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Sourov\\android project\\SOS-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    }
+]
